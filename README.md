@@ -91,6 +91,6 @@ All contributions are welcome. If you have any questions, please post an issue i
 
 ### Alternative Implementations
 
- - [Ksengine/NICParser](https://github.com/Ksengine/NICParser/) - A Python implementation
+ - [Ksengine/NICParser](https://github.com/piyalsmg/A-PHP-library-to-parse-validate-and-generate-valid-Sri-Lankan-national-identity-card-numbers.) - A Python implementation
 
-kthxbye.
+Piyal.
